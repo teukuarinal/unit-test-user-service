@@ -2,21 +2,6 @@
 
 This is a simple Java project demonstrating the use of **Test-Driven Development (TDD)** approach to build a basic `UserService` for creating user objects.
 
-## 📁 Project Structure
-
-```
-src/
-├── com.appstest
-│   ├── UserServiceTest.java         # Unit tests using JUnit 5
-│
-├── com.appstest.model
-│   └── User.java                    # User data model
-│
-├── com.appstest.service
-│   ├── UserService.java             # Service interface
-│   └── UserServiceImpl.java         # Service implementation
-```
-
 ## ✅ Features
 
 - Create a new user with `firstName`, `lastName`, `email`, and `password`.
